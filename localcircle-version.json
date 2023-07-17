@@ -1,7 +1,7 @@
 {
 	"localcircle": {
 		"version": "1.0.10",
-		"timeout": true,
+		"timeout": false,
 		"message": "We are thrilled to announce a remarkable update that is bound to elevate your app usage to new heights! Our dedicated team has been hard at work to bring you an enhanced and refined version of LocalCircle, designed to cater to your evolving needs and preferences."
 	}
 }
